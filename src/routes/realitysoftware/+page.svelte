@@ -48,7 +48,7 @@
         {
             heading: "Contact Information",
             content:
-                "I would welcome the opportunity to discuss how my skills in automation, performance optimization, and secure system design can support your needs. Thank you for considering my application. I am available immediately and look forward to the possibility of contributing to your organization.",
+                "I would welcome the opportunity to discuss how my skills in automation, performance optimization, and secure system design can support REality Software's needs. Thank you for considering my application. I am available immediately and look forward to the possibility of contributing to your organization.",
             isOpen: false,
         },
     ];
